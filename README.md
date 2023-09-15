@@ -7,7 +7,7 @@
 The data.json file is used to store the data for the courses. This makes it easy to update the data without having to make changes to the code.
 
  - #### Use of SweetAlert:
-  The SweetAlert2 library is used to display alerts to the user. This can be used to provide feedback or to warn the user about errors.
+  The SweetAlert library is used to display alerts to the user. This can be used to provide feedback or to warn the user about errors.
 
 
 # I used the useState hook to manage state in this project:

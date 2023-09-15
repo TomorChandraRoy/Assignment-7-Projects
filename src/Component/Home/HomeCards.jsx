@@ -27,11 +27,11 @@ const HomeCards = () => {
         let  count = singleData.credit
 
         if(isExist){
-            // return Swal.fire(
-            //     'It selected',
-            //     ' You cannot select more than once',
-            //     'warning'
-            //   )
+            return Swal.fire(
+                'It selected',
+                ' You cannot select more than once',
+                'warning'
+              )
         }
         else{
             singleTitle.forEach(item => {
