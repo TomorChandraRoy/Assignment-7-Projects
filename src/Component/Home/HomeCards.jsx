@@ -90,7 +90,7 @@ const HomeCards = () => {
             }
           </div>
           <div className="card-container">
-              {/* <Card handleSelect1={singleTitle} remaining1={remaining} totalcoast1={totalcoast}></Card> */}
+              <Card handleSelect1={singleTitle} remaining1={remaining} totalcoast1={totalcoast}></Card>
            </div>
         </div>
         </>

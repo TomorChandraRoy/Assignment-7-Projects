@@ -11,15 +11,15 @@ const Card = ({handleSelect1, remaining1, totalcoast1}) => {
                 <h3 className='card-name'>Course Name</h3>
                 <hr />
             
-                {
+                {/* {
                   handleSelect1.map((nameTitle,index) => (
                     <ol>
                         {index+1}. {nameTitle.title}
                     </ol>
                     ))
-                }
+                } */}
                
-                <h4 className='card-total'>Total Credit Hour : {totalcoast1}</h4>
+                {/* <h4 className='card-total'>Total Credit Hour : {totalcoast1}</h4> */}
             </div>
 
         </div>
