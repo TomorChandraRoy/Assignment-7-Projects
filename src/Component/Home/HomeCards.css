@@ -1,0 +1,56 @@
+.Course-title{
+    text-align: center;
+    font-weight: 900;
+}
+.header-container{
+    display: flex;
+}
+.container{
+    width: 350px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+.main-container{
+    text-align: center;
+    width: 305px;
+    border: 2px solid #ece9e9;
+    border-radius: 10px;
+   
+}
+
+.img-section{
+    margin-top: 10px;
+}
+
+.title{
+    text-align: left;
+    margin-left: 18px;
+    font-weight: 600;
+}
+.description{
+    text-align: left;
+    margin-left: 18px;
+    font-weight: 400;
+    color: rgba(28, 27, 27, 0.60);
+    
+}
+
+.dollor-section{
+    display: flex;
+    gap: 16px;
+    margin-left: 16px;
+}
+.price-style{
+    color: rgba(28, 27, 27, 0.60);
+    font-weight: 500;
+}
+.btn{
+    background-color: #2F80ED;
+    color: white;
+    padding: 5px 110px;
+    margin-bottom: 10px;
+}
+.card-container{
+    margin-left: 630px;
+}

@@ -1,0 +1,31 @@
+.main-card{
+    border: 2px solid rgb(231, 222, 222);
+    width: 300px;
+    border-radius: 12px;
+    padding: 10px;
+
+}
+.card-contain{
+    margin-left: 12px;
+}
+.Card-title{
+    color: #2F80ED;
+    font-style: normal;
+    font-weight: 700;
+    /* margin-left: 20px ; */
+    
+}
+.card-name{
+   color: #1C1B1B;
+   /* margin-left: 20px ; */
+}
+.card-total{
+    font-style: normal;
+    font-weight: 500;
+}
+ol{
+    margin-left: -39px;
+}
+
+
+
